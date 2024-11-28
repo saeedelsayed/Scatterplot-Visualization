@@ -1,0 +1,10 @@
+.dot {
+    cursor: pointer;
+}
+.selected {
+    stroke: black;
+    stroke-width: 2px;
+}
+.legend {
+    font-size: 12px;
+}
